@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @a7medel7aj63
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ...Android Developement
+- 🌱 I’m currently learning ...Mobile App Developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
